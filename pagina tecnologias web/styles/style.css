@@ -1,0 +1,334 @@
+.cabeza {
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    align-items: baseline;
+}
+
+.diseño {
+    display: flex;
+    margin-left: 100px;
+    color: antiquewhite;
+    height: 100px;
+    width: 80px;
+}
+
+.multimedia {
+    display: flex;
+    color: rgb(56, 81, 223);
+}
+
+.inicio {
+    display: flex;
+    color: rgb(56, 81, 223);
+    text-decoration: none;
+}
+
+.ini {
+    display: flex;
+    flex-direction: row;
+    margin-left: 500px;
+}
+
+.comienzo {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    background-color: rgb(31, 30, 32);
+    height: 80px;
+}
+
+.ini2 {
+    display: flex;
+    color: antiquewhite;
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.raya {
+    display: flex;
+    background-color: rgb(56, 81, 223);
+    height: 10px;
+    width: 1333px;
+}
+
+.img {
+
+    display: flex;
+    height: 550px;
+    width: 1333px;
+    background-image: url(/assets/cabecera.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text{
+    display: flex;
+    color: antiquewhite;
+    font-size: 50px;
+    margin-left: 400px;
+    margin-top: 150px;
+}
+.lore{
+    display: flex;
+    flex-direction: column;
+}
+.text1{
+    display: flex;
+    margin-left: 340px;
+    color: antiquewhite;
+}
+.boletin{
+    display: flex;
+    background-color: rgb(31, 30, 32);
+    align-items: baseline;
+}
+.text2{
+    display: flex;
+    color: antiquewhite;
+    margin-left: 150px;
+}
+.inpu{
+    display: flex;
+    margin-left: 400px;
+}
+.boton{
+    display: flex;
+    background-color: rgb(235, 58, 14);
+    margin-left: 10px;
+    height: 21px;
+    border-color: rgb(235, 58, 14);
+    color: antiquewhite;
+}
+.todo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 60px;
+}
+.di1{
+    display: flex;
+    flex-direction: column;
+}
+.htmll{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin-left: 80px;
+}
+.titulo1{
+    display: flex;
+    margin-left: 100px;
+}
+.di2{
+    display: flex;
+    flex-direction: column;
+}
+.css3{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin-left: 80px;
+}
+.titulo2{
+    display: flex;
+    margin-left: 110px;
+}
+.di3{
+    display: flex;
+    flex-direction: column;
+}
+.diseños{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    margin-left: 60px;
+}
+.titulo3{
+    display: flex;
+    margin-left: 40px;
+}
+.foo{
+    display: flex;
+    background-color: rgb(15, 125, 199);
+    color: antiquewhite;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+}
+.raya1 {
+    display: flex;
+    background-color: rgb(56, 81, 223);
+    height: 10px;
+    width: 1333px;
+}
+.inpu1 {
+    display: flex;
+    margin-left: 540px;
+    width: 230px;
+}
+.text21{
+    display: flex;
+    color: antiquewhite;
+    margin-left: 100px;
+}
+.boton1 {
+    display: flex;
+    background-color: rgb(235, 58, 14);
+    margin-left: 10px;
+    height: 21px;
+    width: 80px;
+    border-color: rgb(235, 58, 14);
+    color: antiquewhite;
+}
+.nosotros1 {
+    display: flex;
+    height: 150px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 20px;
+    flex-direction: column;
+}
+.nosotros2 {
+    display: flex;
+    background-color: rgb(49, 48, 71);
+    height: 150px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 25px;
+    flex-direction: column;
+}
+.tinto{
+    display: flex;
+    height: 150px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.hacemos{
+    display: flex;
+    background-color: rgb(49, 48, 71);
+    height: 230px;
+    width: 380px;
+    margin-left: 60px;
+    margin-top: 20px;
+    flex-direction: column;
+}
+.ma{
+    display: flex;
+    flex-direction: row;
+}
+.menos{
+    display: flex;
+    color: antiquewhite;
+    margin-top: 30px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dos{
+    display: flex;
+    color: antiquewhite;
+    margin-left: 20px;
+}
+.foo1{
+    display: flex;
+    background-color: rgb(15, 125, 199);
+    color: antiquewhite;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.titi{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.nosotros3 {
+    display: flex;
+    background-color: rgb(206, 219, 215);
+    height: 170px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 23px;
+    flex-direction: column;
+}
+.nosotros4 {
+    display: flex;
+    background-color: rgb(206, 219, 215);
+    height: 170px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 5px;
+    flex-direction: column;
+}
+.nosotros5 {
+    display: flex;
+    background-color: rgb(206, 219, 215);
+    height: 170px;
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 5px;
+    flex-direction: column;
+}
+.hola1 {
+    display: flex;
+    margin-left: 20px;
+}
+.raya2 {
+    display: flex;
+    background-color: rgb(56, 81, 223);
+    height: 10px;
+    width: 1333px;
+}
+.uno{
+    display: flex;
+    color: antiquewhite;
+}
+.contacto{
+    display: flex;
+    flex-direction: column;
+}
+.mapa{
+    display: flex;
+    height: 330px;
+    width: 380px;
+    margin-left: 60px;
+    margin-top: 15px;
+}
+.todonos1{
+    display: flex;
+    width: 700px;
+    margin-left: 90px;
+    margin-top: 15px;
+    flex-direction: column;
+}
+.nombre{
+    display: flex;
+    width: 690px;
+    height: 20px;
+}
+.nombre1{
+    display: flex;
+    width: 690px;
+    height: 100px;
+}
+.hacemos1{
+    display: flex;
+    background-color: rgb(49, 48, 71);
+    height: 230px;
+    width: 380px;
+    margin-left: 60px;
+    margin-top: 40px;
+    flex-direction: column;
+}
+.boton2 {
+    display: flex;
+    background-color: rgb(235, 58, 14);
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    height: 25px;
+    border-color: rgb(235, 58, 14);
+    color: antiquewhite;
+}
